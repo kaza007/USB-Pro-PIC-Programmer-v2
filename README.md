@@ -9,6 +9,8 @@ The USB Pro PIC-PIC18-PIC16-AVR programmer is an [*open project*](http://www.osh
 
 This project is a PCB for the USB Pro PIC Programmer with added DC-DC converter. The programmer can now be powered by the USB port without the use of an external power supply.
 
+![Demo](https://github.com/kaza007/USB-Pro-PIC-Programmer-v2/blob/master/usbpropicprog-v2-demo.jpg)
+
 Design Software
 -----------------
 This project was designed with [Eagle](http://www.cadsoftusa.com/) 7.2.0, [Sketchup](http://www.sketchup.com/) 15.3.331 and [EagleUp](http://eagleup.wordpress.com) 4.5.
