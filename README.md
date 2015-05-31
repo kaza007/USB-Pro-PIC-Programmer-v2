@@ -15,8 +15,6 @@ Design Software
 -----------------
 This project was designed with [Eagle](http://www.cadsoftusa.com/) 7.2.0, [Sketchup](http://www.sketchup.com/) 15.3.331 and [EagleUp](http://eagleup.wordpress.com) 4.5.
 
-DXF and LBR files have been added for compatibility.
-
 License
 -------
 ![CC-BY-SA Logo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
