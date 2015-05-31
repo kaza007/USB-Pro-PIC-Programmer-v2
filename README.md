@@ -7,7 +7,7 @@ Background
 ----------
 The USB Pro PIC-PIC18-PIC16-AVR programmer is an [*open project*](http://www.oshonsoft.com/picprogprousb.html) created by Vladimir Soso, the author of the PIC Simulator IDE at [*OshonSoft.com*](http://www.oshonsoft.com/).
 
-This project is a PCB for the USB Pro PIC Programmer with added DC-DC converter. The programmer can now be powered by the USB port without the use of an external power supply.
+This project is a PCB for the USB Pro PIC Programmer with added DC-DC converter. The programmer can now be powered by the USB port without the use of an external power supply. The PCB is also very easy to assemble as all the components are *through hole* type.
 
 ![Demo](https://github.com/kaza007/USB-Pro-PIC-Programmer-v2/blob/master/usbpropicprog-v2-demo.jpg)
 
